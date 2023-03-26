@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title> Aliens! </title>
+		<meta name="author" content ="Selina Mendoza">
+		<meta name="Class Name" content ="IS 210">
+		<meta name="Date" content ="1/23/2022"
+		<style type = "text/css">
+		</style>
+		<link rel= "stylesheet" href="styles.css">
+		
+	</head>
+		<body style="background-image: url('galaxy.jpg');">
+			
+
+	
+		
+		
+
+	
+
+
+
+		</head>	
+<body>
+	<header>
+		<nav>
+			<tr>
+			<center>
+			<table-cellspacing="10" cellpadding="10">
+			<p style= "font-size: 20pt; color: White" /p>
+				<td><a href="page1.html"> Home </a></td>
+				 &nbsp;&nbsp; 
+				<td><a href="page2.html"> Photos </a></td>
+				 &nbsp;&nbsp; 
+				<td><a href="page3.html"> More Info </a></td>
+
+			</center>
+			
+			</tr>
+		</nav>
+		<head>
+
+<center><h1> Photos </h1> </center>
+	<center><h1> Photo gallery of Aliens </h1></center>
+	<center><img src="aliens1.jpg"  width="560" height="315" </center>
+	<center><img src="aliens2.jpg" width="560" height="315" </center>
+	<center><img src="aliens3.jpg" width="560" height="315" </center>
+	
+
+
+
+
+
+
+
+
+
+
+</html>
